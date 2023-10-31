@@ -123,3 +123,17 @@ TileSets/HexaRealm/Tiles/Snow3
   orig: 0, 0
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Tiles/Coast
+  rotate: false
+  xy: 0, 0
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Lakes
+  rotate: false
+  xy: 0, 0
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
