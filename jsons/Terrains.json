@@ -1,8 +1,9 @@
 [
         {
 		"name": "Earth",
-		"type": "Water",
-		"movementCost": 1,
-		"RGB": [0,0,0]
+		"type": "TerrainFeature",
+		"impassable": true,
+		"overrideStats": true,
+		"occursOn": ["Ocean","Coast","Grassland","Snow","Desert","Hill","Tundra","Plains"]
 	}
 ]
