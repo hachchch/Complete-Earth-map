@@ -1,0 +1,8 @@
+[
+        {
+		"name": "Earth",
+		"type": "Water",
+		"movementCost": 1,
+		"RGB": [0,0,0]
+	}
+]
